@@ -1,4 +1,5 @@
 # CNN-on-CIFAR-10
+Using the CIFAR-10 dataset, a Convolutional Neural Network of 3 convolutional layers and 2 fully connected layers is implemented and evaluated.
 
 ## Dataset
 The CIFAR-10 dataset is a collection of 60,000 32x32 color images in 10 classes, with 6,000 images per class. There are 50,000 training images and 10,000 testing images. The classes are:
